@@ -18,7 +18,7 @@ export default function Privacy() {
       <ul>
         <li>Name: Kailash Chand  Meena (Grievance Officer)</li>
         <li>Email: support@spiceroute.com</li>
-        <li>Address: A7 Gokulpura Lalsot, Dausa, Rajasthan, 303503, India</li>
+        <li>Address: Nonnda Patel ki dhani, Gokulpura Lalsot, Dausa, Rajasthan, 303503, India</li>
       </ul>
     </div>
   );
