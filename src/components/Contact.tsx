@@ -10,10 +10,10 @@ export default function Contact() {
           <User size={18} /> Kailash chand meena
         </div>
         <div className="flex items-center gap-3 text-slate-700 mt-2">
-          <Mail size={18} /> kailashmeena941414@gmail.com
+          <Mail size={18} /> sugnadevimeena55@gmail.com
         </div>
         <div className="flex items-center gap-3 text-slate-700 mt-2">
-          <Phone size={18} /> +91 8619949314
+          <Phone size={18} /> +91 7877572214
         </div>
         <div className="flex items-center gap-3 text-slate-700 mt-2">
           <MapPin size={18} /> Nonnda Patel ki dhani, Gokulpura Lalsot, Dausa, Rajasthan, 303503, India
